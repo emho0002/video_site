@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  font-size: 1rem;
+  background-color: #f7f4ef;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  font-size: 5rem;
+  text-align: center;
+  padding-top: 5%;
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  font-size: 3rem;
+  padding-left: 2%;
+}
+
+h3 {
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding: 5% 0% 2% 2%;
+}
+
+p {
+  padding: 2% 0% 1% 2%;
+}
+
+a {
+  padding: 5% 0% 3% 2%;
+}
+
+.side_1 {
+  padding: 5% 10% 5% 10%;
+}
+
+footer {
+  font-family: "Manrope", sans-serif;
+  color: #7b7e77;
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 1rem 2rem;
+  box-shadow: 0 12px 28px 0 rgb(0 0 0 / 30%);
+  background-color: #f7f4ef;
+}
+
+.video {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.billeder_1 {
+  padding-left: 18%;
+}
